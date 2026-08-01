@@ -162,7 +162,7 @@ EL,The Estée Lauder Companies Inc.,compliant,compliant,compliant,non_compliant,
 ELV,"Elevance Health, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
 EME,"EMCOR Group, Inc.",compliant,compliant,compliant,non_compliant,compliant,compliant,0.12,2026-07-27
 EMR,Emerson Electric Co.,compliant,compliant,compliant,compliant,compliant,compliant,0.83,2026-07-30
-EOG,"EOG Resources, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.93,2026-07-23
+EOG,"EOG Resources, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.93,2026-08-01
 EQIX,"Equinix, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.09,2026-07-26
 EQR,Equity Residential,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.94,2026-07-27
 EQT,EQT Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
@@ -210,7 +210,7 @@ GIS,"General Mills, Inc.",non_compliant,non_compliant,non_compliant,non_complian
 GL,Globe Life Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
 GLW,Corning Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,0.24,2026-07-30
 GM,General Motors Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.19,2026-07-31
-GNRC,Generac Holdings Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-24
+GNRC,Generac Holdings Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-08-01
 GOOG,Alphabet Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.08,2026-07-30
 GOOGL,Alphabet Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.08,2026-07-30
 GPC,Genuine Parts Company,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
@@ -237,7 +237,7 @@ HST,"Host Hotels & Resorts, Inc.",compliant,compliant,compliant,compliant,compli
 HSY,The Hershey Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-07-27
 HUBB,Hubbell Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
 HUM,Humana Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-HWM,Howmet Aerospace Inc.,compliant,compliant,questionable,non_compliant,non_compliant,compliant,0.24,2026-07-22
+HWM,Howmet Aerospace Inc.,compliant,compliant,questionable,non_compliant,non_compliant,compliant,0.24,2026-08-01
 IBKR,"Interactive Brokers Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
 IBM,International Business Machines Corporation,non_compliant,non_compliant,compliant,non_compliant,non_compliant,non_compliant,0.96,2026-07-30
 ICE,"Intercontinental Exchange, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31

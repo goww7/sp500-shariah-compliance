@@ -4,7 +4,7 @@ Shariah (Islamic finance) compliance verdicts for the 503 constituents of the
 S&P 500, screened across five published methodologies by the
 [Halal Terminal](https://www.halalterminal.com) engine.
 
-- **Snapshot generated:** 2026-07-31 (universe from the 2026-07-28 S&P 500 bulk screening run)
+- **Snapshot generated:** 2026-08-01 (universe from the 2026-07-28 S&P 500 bulk screening run)
 - **Rows:** 503 constituents
 - **File:** [`data/sp500-compliance.csv`](data/sp500-compliance.csv)
 - **Updated:** monthly (first of each month)
