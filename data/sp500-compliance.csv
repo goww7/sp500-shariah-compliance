@@ -1,504 +1,504 @@
 symbol,name,overall_status,aaoifi,djim,ftse,msci,sp,purification_rate,as_of_date
-A,"Agilent Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.89,2026-07-31
-AAPL,Apple Inc.,compliant,compliant,compliant,compliant,compliant,compliant,3.37,2026-07-29
-ABBV,AbbVie Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.12,2026-07-30
-ABNB,"Airbnb, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,5.79,2026-07-31
-ABT,Abbott Laboratories,compliant,compliant,compliant,compliant,compliant,compliant,0.69,2026-07-30
-ACGL,Arch Capital Group Ltd.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-27
-ACN,Accenture plc,compliant,compliant,compliant,compliant,compliant,compliant,0.48,2026-07-30
-ADBE,Adobe Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.11,2026-07-30
-ADI,"Analog Devices, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.96,2026-07-30
-ADM,Archer-Daniels-Midland Company,compliant,compliant,compliant,compliant,compliant,compliant,0.61,2026-07-31
-ADP,"Automatic Data Processing, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.55,2026-07-31
-ADSK,"Autodesk, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-AEE,Ameren Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.41,2026-07-31
-AEP,"American Electric Power Company, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.27,2026-07-31
-AES,The AES Corporation,compliant,compliant,compliant,compliant,compliant,compliant,2.35,2026-07-31
-AFL,Aflac Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-AIG,"American International Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-AIZ,"Assurant, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-AJG,Arthur J. Gallagher & Co.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-AKAM,"Akamai Technologies, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.08,2026-07-30
-ALB,Albemarle Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-ALGN,"Align Technology, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.4,2026-07-31
-ALL,The Allstate Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-ALLE,Allegion plc,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-07-31
-AMAT,"Applied Materials, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.43,2026-07-30
-AMCR,Amcor plc,compliant,compliant,compliant,compliant,compliant,compliant,0.96,2026-07-31
-AMD,"Advanced Micro Devices, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.01,2026-07-30
-AME,"AMETEK, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-AMGN,Amgen Inc.,compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.11,2026-07-30
-AMP,"Ameriprise Financial, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-AMT,American Tower Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.26,2026-07-30
-AMZN,"Amazon.com, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.61,2026-07-30
-ANET,"Arista Networks, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,4.26,2026-07-31
-AON,Aon plc,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-27
-AOS,A. O. Smith Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-APA,APA Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-07-31
-APD,"Air Products and Chemicals, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-APH,Amphenol Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.09,2026-07-31
-APO,"Apollo Global Management, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-APP,AppLovin Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-APTV,Aptiv PLC,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.29,2026-07-31
-ARE,"Alexandria Real Estate Equities, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.22,2026-07-27
-ARES,Ares Management Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-ATO,Atmos Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.17,2026-07-31
-AVB,"AvalonBay Communities, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.97,2026-07-31
-AVGO,Broadcom Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.54,2026-07-30
-AVY,Avery Dennison Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-AWK,"American Water Works Company, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.08,2026-07-31
-AXON,"Axon Enterprise, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-AXP,American Express Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-AZO,"AutoZone, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.06,2026-07-31
-BA,The Boeing Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BAC,Bank of America Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BALL,Ball Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.23,2026-07-31
-BAX,Baxter International Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.46,2026-07-31
-BBY,"Best Buy Co., Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-30
-BDX,"Becton, Dickinson and Company",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.17,2026-07-22
-BEN,"Franklin Resources, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BF-B,Brown-Forman Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BG,Bunge Global SA,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.29,2026-07-31
-BIIB,Biogen Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.26,2026-07-31
-BKNG,Booking Holdings Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.69,2026-07-31
-BKR,Baker Hughes Company,compliant,compliant,non_compliant,compliant,compliant,non_compliant,0.0,2026-07-31
-BLDR,"Builders FirstSource, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-BLK,"BlackRock, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BMY,Bristol-Myers Squibb Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.22,2026-07-31
-BNY,The Bank of New York Mellon Cor,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BR,"Broadridge Financial Solutions, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.04,2026-07-31
-BRK-B,Berkshire Hathaway Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BRO,"Brown & Brown, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BSX,Boston Scientific Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.42,2026-07-30
-BX,Blackstone Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-BXP,"BXP, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.03,2026-07-31
-C,Citigroup Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CAH,"Cardinal Health, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-CARR,Carrier Global Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.33,2026-07-31
-CASY,"Casey's General Stores, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-CAT,Caterpillar Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.69,2026-07-31
-CB,Chubb Limited,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-27
-CBOE,"Cboe Global Markets, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CBRE,"CBRE Group, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-27
-CCI,Crown Castle Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.3,2026-07-31
-CCL,Carnival Corporation & plc,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.19,2026-07-31
-CDNS,"Cadence Design Systems, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.92,2026-07-24
-CDW,CDW Corporation,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-27
-CEG,Constellation Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.84,2026-07-30
-CF,"CF Industries Holdings, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.14,2026-07-31
-CFG,"Citizens Financial Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CHD,"Church & Dwight Co., Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.38,2026-07-27
-CHRW,"C.H. Robinson Worldwide, Inc.",compliant,compliant,compliant,non_compliant,compliant,compliant,0.0,2026-07-27
-CHTR,"Charter Communications, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-31
-CI,The Cigna Group,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CIEN,Ciena Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.84,2026-07-27
-CINF,Cincinnati Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CL,Colgate-Palmolive Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.37,2026-07-26
-CLX,The Clorox Company,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.06,2026-07-30
-CMCSA,Comcast Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-CME,CME Group Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CMG,"Chipotle Mexican Grill, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.28,2026-07-31
-CMI,Cummins Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.25,2026-07-26
-CMS,CMS Energy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.06,2026-07-27
-CNC,Centene Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CNP,"CenterPoint Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.1,2026-07-27
-COF,Capital One Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-COHR,Coherent Corp.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-COIN,"Coinbase Global, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-COO,"The Cooper Companies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-COP,ConocoPhillips,compliant,compliant,compliant,compliant,compliant,compliant,0.53,2026-07-31
-COR,"Cencora, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-27
-COST,Costco Wholesale Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.21,2026-07-31
-CPAY,"Corpay, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-27
-CPRT,"Copart, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.03,2026-07-31
-CPT,Camden Property Trust,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.97,2026-07-31
-CRH,CRH plc,compliant,compliant,compliant,compliant,compliant,compliant,0.39,2026-07-27
-CRL,"Charles River Laboratories International, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.12,2026-07-26
-CRM,"Salesforce, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.3,2026-07-30
-CRWD,"CrowdStrike Holdings, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,4.05,2026-07-30
-CSCO,"Cisco Systems, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.35,2026-07-29
-CSGP,"CoStar Group, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-27
-CSX,CSX Corporation,compliant,compliant,compliant,compliant,compliant,compliant,2.01,2026-07-31
-CTAS,Cintas Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.05,2026-07-27
-CTSH,Cognizant Technology Solutions Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.33,2026-07-31
-CTVA,"Corteva, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.78,2026-07-31
-CVNA,Carvana Co.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-27
-CVS,CVS Health Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-CVX,Chevron Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-D,"Dominion Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.84,2026-07-27
-DAL,"Delta Air Lines, Inc.",compliant,compliant,non_compliant,compliant,compliant,non_compliant,0.06,2026-07-27
-DASH,"DoorDash, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.23,2026-07-27
-DD,"DuPont de Nemours, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.43,2026-07-27
-DDOG,"Datadog, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,5.67,2026-07-30
-DE,Deere & Company,compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,4.44,2026-07-31
-DECK,Deckers Outdoor Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.16,2026-07-27
-DELL,Dell Technologies Inc.,compliant,compliant,compliant,compliant,compliant,non_compliant,0.18,2026-07-30
-DG,Dollar General Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-26
-DGX,Quest Diagnostics Incorporated,compliant,compliant,compliant,non_compliant,non_compliant,non_compliant,0.12,2026-07-31
-DHI,"D.R. Horton, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.02,2026-07-27
-DHR,Danaher Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.12,2026-07-31
-DIS,The Walt Disney Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-DLR,"Digital Realty Trust, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-DLTR,"Dollar Tree, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-DOC,"Healthpeak Properties, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.19,2026-07-31
-DOV,Dover Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.9,2026-07-30
-DOW,Dow Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.38,2026-07-31
-DPZ,"Domino's Pizza, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.3,2026-07-27
-DRI,"Darden Restaurants, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.12,2026-07-31
-DTE,DTE Energy Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.82,2026-07-27
-DUK,Duke Energy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.32,2026-07-26
-DVA,DaVita Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-31
-DVN,Devon Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.33,2026-07-31
-DXCM,"DexCom, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.07,2026-07-30
-EA,Electronic Arts Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.93,2026-07-26
-EBAY,eBay Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.39,2026-07-31
-ECHO,,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-28
-ECL,Ecolab Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.4,2026-07-26
-ED,"Consolidated Edison, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.94,2026-07-27
-EFX,Equifax Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-26
-EG,"Everest Group, Ltd.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-26
-EIX,Edison International,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.0,2026-07-24
-EL,The Estée Lauder Companies Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.4,2026-07-26
-ELV,"Elevance Health, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-EME,"EMCOR Group, Inc.",compliant,compliant,compliant,non_compliant,compliant,compliant,0.12,2026-07-27
-EMR,Emerson Electric Co.,compliant,compliant,compliant,compliant,compliant,compliant,0.83,2026-07-30
-EOG,"EOG Resources, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.93,2026-08-01
-EQIX,"Equinix, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.09,2026-07-26
-EQR,Equity Residential,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.94,2026-07-27
-EQT,EQT Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-ERIE,Erie Indemnity Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-ES,Eversource Energy,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.93,2026-07-27
-ESS,"Essex Property Trust, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,5.23,2026-07-31
-ETN,Eaton Corporation plc,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-ETR,Entergy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,6.77,2026-07-26
-EVRG,"Evergy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-26
-EW,Edwards Lifesciences Corporation,compliant,compliant,compliant,compliant,compliant,compliant,2.78,2026-07-31
-EXC,Exelon Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.18,2026-07-27
-EXE,Expand Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.13,2026-07-31
-EXPD,"Expeditors International of Washington, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.32,2026-07-31
-EXPE,"Expedia Group, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.73,2026-07-27
-EXR,Extra Space Storage Inc.,compliant,compliant,compliant,compliant,compliant,compliant,4.83,2026-07-27
-F,Ford Motor Company,non_compliant,non_compliant,compliant,compliant,compliant,compliant,0.8,2026-07-31
-FANG,"Diamondback Energy, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.17,2026-07-27
-FAST,Fastenal Company,compliant,compliant,compliant,compliant,compliant,compliant,0.07,2026-07-27
-FCX,Freeport-McMoRan Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-FDS,FactSet Research Systems Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-FDX,FedEx Corporation,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.46,2026-07-31
-FDXF,,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-28
-FE,FirstEnergy Corp.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-FFIV,"F5, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.32,2026-07-31
-FICO,Fair Isaac Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-FIS,"Fidelity National Information Services, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.22,2026-07-27
-FISV,,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-27
-FITB,Fifth Third Bancorp,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-FIX,"Comfort Systems USA, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.24,2026-07-27
-FLEX,Flex Ltd.,compliant,compliant,compliant,compliant,compliant,compliant,0.18,2026-07-27
-FOX,Fox Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-FOXA,Fox Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-FRT,Federal Realty Investment Trust,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.25,2026-07-31
-FSLR,"First Solar, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.64,2026-07-30
-FTNT,"Fortinet, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.06,2026-07-30
-FTV,Fortive Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-GD,General Dynamics Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-GDDY,GoDaddy Inc.,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-26
-GE,GE Aerospace,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-GEHC,GE HealthCare Technologies Inc.,non_compliant,non_compliant,compliant,compliant,compliant,compliant,0.13,2026-07-30
-GEN,Gen Digital Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.5,2026-07-27
-GEV,GE Vernova Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.91,2026-07-27
-GILD,"Gilead Sciences, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.36,2026-07-31
-GIS,"General Mills, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.17,2026-07-27
-GL,Globe Life Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-GLW,Corning Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,0.24,2026-07-30
-GM,General Motors Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.19,2026-07-31
-GNRC,Generac Holdings Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-08-01
-GOOG,Alphabet Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.08,2026-07-30
-GOOGL,Alphabet Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.08,2026-07-30
-GPC,Genuine Parts Company,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-GPN,Global Payments Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.01,2026-07-31
-GRMN,Garmin Ltd.,compliant,compliant,compliant,compliant,compliant,compliant,1.78,2026-07-27
-GS,"The Goldman Sachs Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-GWW,"W.W. Grainger, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.03,2026-07-27
-HAL,Halliburton Company,compliant,compliant,compliant,compliant,compliant,compliant,0.4,2026-07-31
-HAS,"Hasbro, Inc.",compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.53,2026-07-31
-HBAN,Huntington Bancshares Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-HCA,"HCA Healthcare, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-31
-HD,"The Home Depot, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.02,2026-07-30
-HIG,"The Hartford Insurance Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-HII,"Huntington Ingalls Industries, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-HLT,Hilton Worldwide Holdings Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-HON,Honeywell International Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.99,2026-07-30
-HONA,,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-28
-HOOD,"Robinhood Markets, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-HPE,Hewlett Packard Enterprise Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.18,2026-07-29
-HPQ,HP Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.16,2026-07-31
-HRL,Hormel Foods Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.22,2026-07-27
-HSIC,"Henry Schein, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.25,2026-07-27
-HST,"Host Hotels & Resorts, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.52,2026-07-27
-HSY,The Hershey Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-07-27
-HUBB,Hubbell Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-HUM,Humana Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-HWM,Howmet Aerospace Inc.,compliant,compliant,questionable,non_compliant,non_compliant,compliant,0.24,2026-08-01
-IBKR,"Interactive Brokers Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-IBM,International Business Machines Corporation,non_compliant,non_compliant,compliant,non_compliant,non_compliant,non_compliant,0.96,2026-07-30
-ICE,"Intercontinental Exchange, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-IDXX,"IDEXX Laboratories, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.07,2026-07-27
-IEX,IDEX Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-IFF,International Flavors & Fragrances Inc.,non_compliant,non_compliant,compliant,compliant,compliant,compliant,0.17,2026-07-26
-INCY,Incyte Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.05,2026-07-31
-INTC,Intel Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.91,2026-07-30
-INTU,Intuit Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.49,2026-07-26
-INVH,Invitation Homes Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-31
-IP,International Paper Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.76,2026-07-31
-IQV,IQVIA Holdings Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.28,2026-07-27
-IR,Ingersoll Rand Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-IRM,Iron Mountain Incorporated,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.25,2026-07-27
-ISRG,"Intuitive Surgical, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,2.86,2026-07-29
-IT,"Gartner, Inc.",non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,1.0,2026-07-30
-ITW,Illinois Tool Works Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.25,2026-07-30
-IVZ,Invesco Ltd.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-J,Jacobs Solutions Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-07-27
-JBHT,"J.B. Hunt Transport Services, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-07-27
-JBL,Jabil Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-27
-JCI,Johnson Controls International plc,compliant,compliant,compliant,compliant,compliant,compliant,0.03,2026-07-26
-JKHY,"Jack Henry & Associates, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.17,2026-07-27
-JNJ,Johnson & Johnson,compliant,compliant,compliant,compliant,compliant,compliant,1.12,2026-07-30
-JPM,JPMorgan Chase & Co.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-KDP,Keurig Dr Pepper Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.02,2026-07-31
-KEY,KeyCorp,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-KEYS,"Keysight Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.08,2026-07-27
-KHC,The Kraft Heinz Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.49,2026-07-31
-KIM,Kimco Realty Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-22
-KKR,KKR & Co. Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-KLAC,KLA Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.48,2026-07-31
-KMB,Kimberly-Clark Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.15,2026-07-31
-KMI,"Kinder Morgan, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.02,2026-07-27
-KO,The Coca-Cola Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.64,2026-07-30
-KR,The Kroger Co.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.13,2026-07-30
-KVUE,Kenvue Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.34,2026-07-27
-L,Loews Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-LDOS,"Leidos Holdings, Inc.",non_compliant,non_compliant,compliant,non_compliant,non_compliant,non_compliant,0.05,2026-07-30
-LEN,Lennar Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-LH,Labcorp Holdings Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-LHX,"L3Harris Technologies, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-LII,Lennox International Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.11,2026-07-27
-LIN,Linde plc,compliant,compliant,compliant,compliant,compliant,compliant,0.61,2026-07-30
-LITE,Lumentum Holdings Inc.,compliant,compliant,compliant,non_compliant,non_compliant,non_compliant,3.73,2026-07-27
-LLY,Eli Lilly and Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.27,2026-07-30
-LMT,Lockheed Martin Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-LNT,Alliant Energy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.2,2026-07-31
-LOW,"Lowe's Companies, Inc.",non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.04,2026-07-31
-LRCX,Lam Research Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.25,2026-07-30
-LULU,lululemon athletica inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-LUV,Southwest Airlines Co.,compliant,compliant,compliant,compliant,compliant,compliant,0.73,2026-07-31
-LVS,Las Vegas Sands Corp.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-LYB,LyondellBasell Industries N.V.,non_compliant,non_compliant,compliant,compliant,compliant,compliant,0.32,2026-07-31
-LYV,"Live Nation Entertainment, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MA,Mastercard Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MAA,"Mid-America Apartment Communities, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-31
-MAR,"Marriott International, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MAS,Masco Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.01,2026-07-27
-MCD,McDonald's Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.11,2026-07-27
-MCHP,Microchip Technology Incorporated,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.24,2026-07-27
-MCK,McKesson Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-07-27
-MCO,Moody's Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MDLZ,"Mondelez International, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.97,2026-07-27
-MDT,Medtronic plc,compliant,compliant,compliant,compliant,compliant,compliant,1.18,2026-07-30
-MET,"MetLife, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-META,"Meta Platforms, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.06,2026-07-29
-MGM,MGM Resorts International,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MKC,"McCormick & Company, Incorporated",non_compliant,non_compliant,compliant,compliant,compliant,compliant,0.59,2026-07-30
-MLM,"Martin Marietta Materials, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-MMM,3M Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.93,2026-07-31
-MNST,Monster Beverage Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-MO,"Altria Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MOS,The Mosaic Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.45,2026-07-31
-MPC,Marathon Petroleum Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.12,2026-07-31
-MPWR,"Monolithic Power Systems, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-24
-MRK,"Merck & Co., Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.53,2026-07-31
-MRNA,"Moderna, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,16.15,2026-07-31
-MRSH,"Marsh & McLennan Companies, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MRVL,"Marvell Technology, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.18,2026-07-29
-MS,Morgan Stanley,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MSCI,MSCI Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MSFT,Microsoft Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.88,2026-07-29
-MSI,"Motorola Solutions, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.26,2026-07-27
-MTB,M&T Bank Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-MTD,Mettler-Toledo International Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-27
-MU,"Micron Technology, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-07-30
-NCLH,Norwegian Cruise Line Holdings Ltd.,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-NDAQ,"Nasdaq, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-NDSN,Nordson Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.11,2026-07-27
-NEE,"NextEra Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-29
-NEM,Newmont Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.94,2026-07-30
-NFLX,"Netflix, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-NI,NiSource Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.2,2026-07-27
-NKE,"NIKE, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.6,2026-07-30
-NOC,Northrop Grumman Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-NOW,"ServiceNow, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-29
-NRG,"NRG Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-27
-NSC,Norfolk Southern Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.11,2026-07-31
-NTAP,"NetApp, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.81,2026-07-30
-NTRS,Northern Trust Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-NUE,Nucor Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.34,2026-07-31
-NVDA,NVIDIA Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.07,2026-07-30
-NVR,"NVR, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.01,2026-07-26
-NWS,News Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-NWSA,News Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-NXPI,NXP Semiconductors N.V.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.02,2026-07-31
-O,Realty Income Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,7.07,2026-07-31
-ODFL,"Old Dominion Freight Line, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.17,2026-07-27
-OKE,"ONEOK, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.1,2026-07-26
-OMC,Omnicom Group Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.56,2026-07-27
-ON,ON Semiconductor Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.59,2026-07-27
-ORCL,Oracle Corporation,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,1.16,2026-07-30
-ORLY,"O'Reilly Automotive, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.04,2026-07-31
-OTIS,Otis Worldwide Corporation,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-OXY,Occidental Petroleum Corporation,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.55,2026-07-31
-PANW,"Palo Alto Networks, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.94,2026-07-30
-PAYX,"Paychex, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,2.9,2026-07-27
-PCAR,PACCAR Inc,compliant,compliant,compliant,non_compliant,compliant,compliant,0.96,2026-07-31
-PCG,PG&E Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.09,2026-07-24
-PEG,Public Service Enterprise Group Incorporated,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.26,2026-07-27
-PEP,"PepsiCo, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.33,2026-07-30
-PFE,Pfizer Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.96,2026-07-30
-PFG,"Principal Financial Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-PG,The Procter & Gamble Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.56,2026-07-29
-PGR,The Progressive Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-PH,Parker-Hannifin Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-07-27
-PHM,"PulteGroup, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.26,2026-07-27
-PKG,Packaging Corporation of America,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-07-26
-PLD,"Prologis, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.04,2026-07-27
-PLTR,Palantir Technologies Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,5.12,2026-07-29
-PM,Philip Morris International Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-PNC,"The PNC Financial Services Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-PNR,Pentair plc,compliant,compliant,compliant,compliant,compliant,compliant,0.24,2026-07-24
-PNW,Pinnacle West Capital Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.34,2026-07-26
-PODD,Insulet Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.28,2026-07-27
-PPG,"PPG Industries, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.96,2026-07-27
-PPL,PPL Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.04,2026-07-27
-PRU,"Prudential Financial, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-PSA,Public Storage,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.31,2026-07-31
-PSKY,Paramount Skydance Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-PSX,Phillips 66,compliant,compliant,non_compliant,compliant,compliant,non_compliant,0.11,2026-07-31
-PTC,PTC Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.14,2026-07-31
-PWR,"Quanta Services, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.06,2026-07-27
-PYPL,"PayPal Holdings, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-Q,"Qnity Electronics, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.08,2026-07-31
-QCOM,QUALCOMM Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,1.07,2026-07-30
-RCL,Royal Caribbean Cruises Ltd.,compliant,compliant,compliant,non_compliant,non_compliant,non_compliant,0.13,2026-07-31
-REG,Regency Centers Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.47,2026-07-31
-REGN,"Regeneron Pharmaceuticals, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,4.27,2026-07-31
-RF,Regions Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-RJF,"Raymond James Financial, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-RL,Ralph Lauren Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.66,2026-07-31
-RMD,ResMed Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.01,2026-07-31
-ROK,"Rockwell Automation, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.16,2026-07-31
-ROL,"Rollins, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-30
-ROP,"Roper Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-ROST,"Ross Stores, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.76,2026-07-31
-RSG,"Republic Services, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.04,2026-07-31
-RTX,RTX Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-RVTY,"Revvity, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.09,2026-07-27
-SBAC,SBA Communications Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.13,2026-07-24
-SBUX,Starbucks Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-07-31
-SCHW,The Charles Schwab Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-SHW,The Sherwin-Williams Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.11,2026-07-31
-SJM,The J. M. Smucker Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.02,2026-07-31
-SLB,SLB N.V.,compliant,compliant,compliant,compliant,compliant,compliant,0.38,2026-07-24
-SMCI,"Super Micro Computer, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.67,2026-07-30
-SNA,Snap-on Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,1.14,2026-07-31
-SNDK,Sandisk Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.3,2026-07-26
-SNPS,"Synopsys, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.94,2026-07-30
-SO,The Southern Company,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-SOLV,Solventum Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-31
-SPG,"Simon Property Group, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-27
-SPGI,S&P Global Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-SRE,Sempra,compliant,compliant,compliant,compliant,compliant,compliant,0.75,2026-07-31
-STE,STERIS plc,compliant,compliant,compliant,compliant,compliant,compliant,0.18,2026-07-27
-STLD,"Steel Dynamics, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.2,2026-07-31
-STT,State Street Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-STX,Seagate Technology Holdings plc,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.27,2026-07-30
-STZ,"Constellation Brands, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-SW,Smurfit Westrock Plc,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.36,2026-07-26
-SWK,"Stanley Black & Decker, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.31,2026-07-27
-SWKS,"Skyworks Solutions, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.03,2026-07-31
-SYF,Synchrony Financial,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-SYK,Stryker Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-31
-SYY,Sysco Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-T,AT&T Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.32,2026-07-31
-TAP,Molson Coors Beverage Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-TDG,TransDigm Group Incorporated,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-27
-TDY,Teledyne Technologies Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-TECH,Bio-Techne Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.32,2026-07-31
-TEL,TE Connectivity plc,compliant,compliant,compliant,compliant,compliant,compliant,0.48,2026-07-27
-TER,"Teradyne, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.49,2026-07-22
-TFC,Truist Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-TGT,Target Corporation,compliant,compliant,non_compliant,compliant,compliant,compliant,0.0,2026-07-31
-TJX,"The TJX Companies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.32,2026-07-30
-TKO,"TKO Group Holdings, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-TMO,Thermo Fisher Scientific Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.23,2026-07-29
-TMUS,"T-Mobile US, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.02,2026-07-31
-TPL,Texas Pacific Land Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.71,2026-07-26
-TPR,"Tapestry, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-TRGP,Targa Resources Corp.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-27
-TRMB,Trimble Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-07-27
-TROW,"T. Rowe Price Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-TRV,"The Travelers Companies, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-TSCO,Tractor Supply Company,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-TSLA,"Tesla, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.77,2026-07-30
-TSN,"Tyson Foods, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.13,2026-07-27
-TT,Trane Technologies plc,compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-07-27
-TTD,"The Trade Desk, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.99,2026-07-30
-TTWO,"Take-Two Interactive Software, Inc.",compliant,questionable,questionable,questionable,questionable,questionable,3.91,2026-07-31
-TXN,Texas Instruments Incorporated,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.06,2026-07-30
-TXT,Textron Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-TYL,"Tyler Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-UAL,"United Airlines Holdings, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.03,2026-07-27
-UBER,"Uber Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.43,2026-07-31
-UDR,"UDR, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.09,2026-07-31
-UHS,"Universal Health Services, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.0,2026-07-31
-ULTA,"Ulta Beauty, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-27
-UNH,UnitedHealth Group Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-UNP,Union Pacific Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.23,2026-07-31
-UPS,"United Parcel Service, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-URI,"United Rentals, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,non_compliant,0.0,2026-07-31
-USB,U.S. Bancorp,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-V,Visa Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-VEEV,Veeva Systems Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,23.56,2026-07-27
-VICI,VICI Properties Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.36,2026-07-31
-VLO,Valero Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.9,2026-07-27
-VLTO,Veralto Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-27
-VMC,Vulcan Materials Company,compliant,compliant,compliant,compliant,compliant,compliant,0.01,2026-07-31
-VRSK,"Verisk Analytics, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-27
-VRSN,"VeriSign, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.15,2026-07-31
-VRT,Vertiv Holdings Co,compliant,compliant,compliant,compliant,compliant,compliant,0.17,2026-07-29
-VRTX,Vertex Pharmaceuticals Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-31
-VST,Vistra Corp.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.1,2026-07-30
-VTR,"Ventas, Inc.",compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.18,2026-07-31
-VTRS,Viatris Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.01,2026-07-27
-VZ,Verizon Communications Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.24,2026-07-27
-WAB,Westinghouse Air Brake Technologies Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.0,2026-07-27
-WAT,Waters Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.48,2026-07-27
-WBD,"Warner Bros. Discovery, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-WDAY,"Workday, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.33,2026-07-31
-WDC,Western Digital Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.47,2026-07-30
-WEC,"WEC Energy Group, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.06,2026-07-26
-WELL,Welltower Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.51,2026-07-31
-WFC,Wells Fargo & Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-WM,"Waste Management, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-07-24
-WMB,"The Williams Companies, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.33,2026-07-27
-WMT,Walmart Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.05,2026-07-31
-WRB,W. R. Berkley Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-WSM,"Williams-Sonoma, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.38,2026-07-27
-WST,"West Pharmaceutical Services, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.44,2026-07-27
-WTW,Willis Towers Watson Public Limited Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-27
-WY,Weyerhaeuser Company,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.07,2026-07-27
-WYNN,"Wynn Resorts, Limited",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-07-31
-XEL,Xcel Energy Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.16,2026-07-27
-XOM,Exxon Mobil Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.49,2026-07-30
-XYL,Xylem Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.32,2026-07-27
-XYZ,"Block, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.53,2026-07-31
-YUM,"Yum! Brands, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-07-31
-ZBH,"Zimmer Biomet Holdings, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.03,2026-07-31
-ZBRA,Zebra Technologies Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.56,2026-07-26
-ZTS,Zoetis Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.93,2026-07-27
+A,"Agilent Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.89,2026-08-24
+AAPL,Apple Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.8,2026-08-31
+ABBV,AbbVie Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.23,2026-08-31
+ABNB,"Airbnb, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,5.17,2026-08-24
+ABT,Abbott Laboratories,compliant,compliant,compliant,compliant,compliant,compliant,0.69,2026-08-31
+ACGL,Arch Capital Group Ltd.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+ACN,Accenture plc,compliant,compliant,compliant,compliant,compliant,compliant,0.48,2026-08-31
+ADBE,Adobe Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.11,2026-08-31
+ADI,"Analog Devices, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.96,2026-08-31
+ADM,Archer-Daniels-Midland Company,compliant,compliant,compliant,compliant,compliant,compliant,0.35,2026-08-24
+ADP,"Automatic Data Processing, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.69,2026-08-24
+ADSK,"Autodesk, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.44,2026-08-25
+AEE,Ameren Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.44,2026-08-24
+AEP,"American Electric Power Company, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-25
+AES,The AES Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+AFL,Aflac Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AIG,"American International Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AIZ,"Assurant, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AJG,Arthur J. Gallagher & Co.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AKAM,"Akamai Technologies, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.0,2026-08-31
+ALB,Albemarle Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+ALGN,"Align Technology, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.4,2026-08-24
+ALL,The Allstate Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+ALLE,Allegion plc,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.55,2026-08-28
+AMAT,"Applied Materials, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.43,2026-08-31
+AMCR,Amcor plc,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.28,2026-08-24
+AMD,"Advanced Micro Devices, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.5,2026-08-31
+AME,"AMETEK, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+AMGN,Amgen Inc.,compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.11,2026-08-31
+AMP,"Ameriprise Financial, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AMT,American Tower Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.26,2026-09-01
+AMZN,"Amazon.com, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.61,2026-08-31
+ANET,"Arista Networks, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,4.26,2026-08-31
+AON,Aon plc,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AOS,A. O. Smith Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+APA,APA Corporation,compliant,compliant,non_compliant,compliant,compliant,non_compliant,0.2,2026-09-01
+APD,"Air Products and Chemicals, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+APH,Amphenol Corporation,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-30
+APO,"Apollo Global Management, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+APP,AppLovin Corporation,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+APTV,Aptiv PLC,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.29,2026-08-24
+ARE,"Alexandria Real Estate Equities, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+ARES,Ares Management Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+ATO,Atmos Energy Corporation,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.47,2026-08-24
+AVB,"AvalonBay Communities, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.96,2026-08-24
+AVGO,Broadcom Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.54,2026-08-31
+AVY,Avery Dennison Corporation,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-28
+AWK,"American Water Works Company, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.15,2026-08-24
+AXON,"Axon Enterprise, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AXP,American Express Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+AZO,"AutoZone, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.06,2026-08-24
+BA,The Boeing Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BAC,Bank of America Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BALL,Ball Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.23,2026-08-24
+BAX,Baxter International Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.46,2026-08-24
+BBY,"Best Buy Co., Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+BDX,"Becton, Dickinson and Company",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.17,2026-08-24
+BEN,"Franklin Resources, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BF-B,Brown-Forman Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BG,Bunge Global SA,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.29,2026-08-24
+BIIB,Biogen Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.26,2026-08-24
+BKNG,Booking Holdings Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.95,2026-08-24
+BKR,Baker Hughes Company,insufficient_data,insufficient_data,non_compliant,insufficient_data,insufficient_data,non_compliant,,2026-08-30
+BLDR,"Builders FirstSource, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,compliant,0.0,2026-08-24
+BLK,"BlackRock, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BMY,Bristol-Myers Squibb Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.22,2026-08-24
+BNY,The Bank of New York Mellon Cor,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BR,"Broadridge Financial Solutions, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.16,2026-08-24
+BRK-B,Berkshire Hathaway Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BRO,"Brown & Brown, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BSX,Boston Scientific Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.1,2026-08-24
+BX,Blackstone Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+BXP,"BXP, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.03,2026-08-24
+C,Citigroup Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CAH,"Cardinal Health, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-31
+CARR,Carrier Global Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.37,2026-08-28
+CASY,"Casey's General Stores, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+CAT,Caterpillar Inc.,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+CB,Chubb Limited,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CBOE,"Cboe Global Markets, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CBRE,"CBRE Group, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+CCI,Crown Castle Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.3,2026-08-24
+CCL,Carnival Corporation & plc,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.19,2026-08-24
+CDNS,"Cadence Design Systems, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.92,2026-08-25
+CDW,CDW Corporation,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.0,2026-08-24
+CEG,Constellation Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.3,2026-08-31
+CF,"CF Industries Holdings, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.14,2026-08-24
+CFG,"Citizens Financial Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CHD,"Church & Dwight Co., Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.38,2026-08-24
+CHRW,"C.H. Robinson Worldwide, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,insufficient_data,insufficient_data,,2026-08-28
+CHTR,"Charter Communications, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+CI,The Cigna Group,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CIEN,Ciena Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.04,2026-08-24
+CINF,Cincinnati Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CL,Colgate-Palmolive Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.37,2026-08-24
+CLX,The Clorox Company,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.12,2026-08-24
+CMCSA,Comcast Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+CME,CME Group Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CMG,"Chipotle Mexican Grill, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.4,2026-08-24
+CMI,Cummins Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.52,2026-08-31
+CMS,CMS Energy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+CNC,Centene Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CNP,"CenterPoint Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+COF,Capital One Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+COHR,Coherent Corp.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-29
+COIN,"Coinbase Global, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+COO,"The Cooper Companies, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+COP,ConocoPhillips,compliant,compliant,compliant,compliant,compliant,compliant,0.53,2026-08-24
+COR,"Cencora, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.02,2026-08-24
+COST,Costco Wholesale Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.21,2026-09-01
+CPAY,"Corpay, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+CPRT,"Copart, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,3.99,2026-08-21
+CPT,Camden Property Trust,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.97,2026-08-24
+CRH,CRH plc,compliant,compliant,compliant,compliant,compliant,compliant,0.39,2026-08-24
+CRL,"Charles River Laboratories International, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.12,2026-08-24
+CRM,"Salesforce, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.3,2026-08-31
+CRWD,"CrowdStrike Holdings, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,4.05,2026-08-31
+CSCO,"Cisco Systems, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.44,2026-08-31
+CSGP,"CoStar Group, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,2.29,2026-08-24
+CSX,CSX Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.54,2026-08-24
+CTAS,Cintas Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.05,2026-08-24
+CTSH,Cognizant Technology Solutions Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.43,2026-08-26
+CTVA,"Corteva, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.78,2026-08-24
+CVNA,Carvana Co.,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-28
+CVS,CVS Health Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+CVX,Chevron Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+D,"Dominion Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.84,2026-08-24
+DAL,"Delta Air Lines, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-26
+DASH,"DoorDash, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.15,2026-08-24
+DD,"DuPont de Nemours, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.43,2026-08-24
+DDOG,"Datadog, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,5.67,2026-08-31
+DE,Deere & Company,insufficient_data,insufficient_data,insufficient_data,non_compliant,insufficient_data,insufficient_data,,2026-09-01
+DECK,Deckers Outdoor Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.16,2026-08-24
+DELL,Dell Technologies Inc.,compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.25,2026-08-24
+DG,Dollar General Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+DGX,Quest Diagnostics Incorporated,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.12,2026-08-24
+DHI,"D.R. Horton, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.05,2026-08-24
+DHR,Danaher Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.12,2026-08-24
+DIS,The Walt Disney Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+DLR,"Digital Realty Trust, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-30
+DLTR,"Dollar Tree, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+DOC,"Healthpeak Properties, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.19,2026-08-24
+DOV,Dover Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.9,2026-08-24
+DOW,Dow Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.38,2026-08-24
+DPZ,"Domino's Pizza, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.3,2026-08-24
+DRI,"Darden Restaurants, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.03,2026-08-28
+DTE,DTE Energy Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+DUK,Duke Energy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.09,2026-08-24
+DVA,DaVita Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+DVN,Devon Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.33,2026-08-24
+DXCM,"DexCom, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.86,2026-08-26
+EA,Electronic Arts Inc.,compliant,compliant,compliant,compliant,compliant,compliant,3.52,2026-08-24
+EBAY,eBay Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.39,2026-09-01
+ECHO,EchoStar Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.15,2026-08-26
+ECL,Ecolab Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.4,2026-08-28
+ED,"Consolidated Edison, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.56,2026-08-24
+EFX,Equifax Inc.,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-30
+EG,"Everest Group, Ltd.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+EIX,Edison International,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.97,2026-08-24
+EL,The Estée Lauder Companies Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.6,2026-08-31
+ELV,"Elevance Health, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+EME,"EMCOR Group, Inc.",compliant,compliant,compliant,non_compliant,compliant,compliant,0.12,2026-08-30
+EMR,Emerson Electric Co.,compliant,compliant,compliant,compliant,compliant,compliant,0.83,2026-09-01
+EOG,"EOG Resources, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.93,2026-08-24
+EQIX,"Equinix, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.09,2026-08-24
+EQR,Equity Residential,compliant,compliant,compliant,insufficient_data,insufficient_data,compliant,2.04,2026-08-24
+EQT,EQT Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+ERIE,Erie Indemnity Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+ES,Eversource Energy,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.93,2026-08-24
+ESS,"Essex Property Trust, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.99,2026-08-24
+ETN,Eaton Corporation plc,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-31
+ETR,Entergy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,3.76,2026-08-24
+EVRG,"Evergy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+EW,Edwards Lifesciences Corporation,compliant,compliant,compliant,compliant,compliant,compliant,2.78,2026-08-24
+EXC,Exelon Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+EXE,Expand Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.13,2026-08-24
+EXPD,"Expeditors International of Washington, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.32,2026-08-24
+EXPE,"Expedia Group, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.73,2026-08-24
+EXR,Extra Space Storage Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,4.83,2026-08-24
+F,Ford Motor Company,non_compliant,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,0.8,2026-08-24
+FANG,"Diamondback Energy, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.17,2026-08-24
+FAST,Fastenal Company,compliant,compliant,compliant,compliant,compliant,compliant,0.07,2026-08-26
+FCX,Freeport-McMoRan Inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+FDS,FactSet Research Systems Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+FDX,FedEx Corporation,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.46,2026-08-24
+FDXF,"FedEx Freight Holding Company, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,4.46,2026-08-24
+FE,FirstEnergy Corp.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+FFIV,"F5, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.32,2026-08-24
+FICO,Fair Isaac Corporation,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-31
+FIS,"Fidelity National Information Services, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.22,2026-08-24
+FISV,,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-31
+FITB,Fifth Third Bancorp,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+FIX,"Comfort Systems USA, Inc.",compliant,compliant,compliant,non_compliant,compliant,compliant,0.24,2026-08-26
+FLEX,Flex Ltd.,compliant,compliant,compliant,compliant,compliant,compliant,0.18,2026-08-24
+FOX,Fox Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+FOXA,Fox Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+FRT,Federal Realty Investment Trust,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.25,2026-08-24
+FSLR,"First Solar, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,2.04,2026-08-28
+FTNT,"Fortinet, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.85,2026-08-31
+FTV,Fortive Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+GD,General Dynamics Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+GDDY,GoDaddy Inc.,non_compliant,non_compliant,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-28
+GE,GE Aerospace,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+GEHC,GE HealthCare Technologies Inc.,non_compliant,non_compliant,compliant,compliant,compliant,compliant,0.23,2026-08-24
+GEN,Gen Digital Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.5,2026-08-24
+GEV,GE Vernova Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.17,2026-08-24
+GILD,"Gilead Sciences, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.06,2026-08-28
+GIS,"General Mills, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.17,2026-08-24
+GL,Globe Life Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+GLW,Corning Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,0.24,2026-08-31
+GM,General Motors Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.38,2026-08-24
+GNRC,Generac Holdings Inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-29
+GOOG,Alphabet Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.08,2026-09-01
+GOOGL,Alphabet Inc.,compliant,compliant,compliant,compliant,compliant,compliant,1.08,2026-08-31
+GPC,Genuine Parts Company,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+GPN,Global Payments Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.01,2026-08-24
+GRMN,Garmin Ltd.,compliant,compliant,compliant,compliant,compliant,compliant,1.78,2026-08-24
+GS,"The Goldman Sachs Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+GWW,"W.W. Grainger, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-31
+HAL,Halliburton Company,compliant,compliant,compliant,compliant,compliant,compliant,0.4,2026-08-24
+HAS,"Hasbro, Inc.",compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.53,2026-08-24
+HBAN,Huntington Bancshares Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+HCA,"HCA Healthcare, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+HD,"The Home Depot, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.06,2026-08-31
+HIG,"The Hartford Insurance Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+HII,"Huntington Ingalls Industries, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+HLT,Hilton Worldwide Holdings Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+HON,Honeywell International Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.99,2026-08-31
+HONA,Honeywell Aerospace Inc.,non_compliant,non_compliant,questionable,non_compliant,non_compliant,compliant,0.0,2026-08-24
+HOOD,"Robinhood Markets, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+HPE,Hewlett Packard Enterprise Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.18,2026-08-24
+HPQ,HP Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.16,2026-08-28
+HRL,Hormel Foods Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.22,2026-08-24
+HSIC,"Henry Schein, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.25,2026-08-24
+HST,"Host Hotels & Resorts, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.52,2026-08-24
+HSY,The Hershey Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-08-24
+HUBB,Hubbell Incorporated,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-26
+HUM,Humana Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+HWM,Howmet Aerospace Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+IBKR,"Interactive Brokers Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+IBM,International Business Machines Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.96,2026-08-28
+ICE,"Intercontinental Exchange, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+IDXX,"IDEXX Laboratories, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+IEX,IDEX Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+IFF,International Flavors & Fragrances Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.17,2026-08-24
+INCY,Incyte Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.05,2026-08-24
+INTC,Intel Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.91,2026-08-31
+INTU,Intuit Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.84,2026-08-24
+INVH,Invitation Homes Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+IP,International Paper Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.76,2026-08-24
+IQV,IQVIA Holdings Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.28,2026-08-24
+IR,Ingersoll Rand Inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+IRM,Iron Mountain Incorporated,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.25,2026-08-24
+ISRG,"Intuitive Surgical, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.21,2026-08-31
+IT,"Gartner, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.0,2026-08-24
+ITW,Illinois Tool Works Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.25,2026-08-31
+IVZ,Invesco Ltd.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+J,Jacobs Solutions Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.3,2026-08-24
+JBHT,"J.B. Hunt Transport Services, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-08-24
+JBL,Jabil Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.01,2026-08-24
+JCI,Johnson Controls International plc,compliant,compliant,compliant,compliant,compliant,compliant,0.01,2026-08-24
+JKHY,"Jack Henry & Associates, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.17,2026-08-24
+JNJ,Johnson & Johnson,compliant,compliant,compliant,compliant,compliant,compliant,1.12,2026-08-31
+JPM,JPMorgan Chase & Co.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-31
+KDP,Keurig Dr Pepper Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+KEY,KeyCorp,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+KEYS,"Keysight Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.08,2026-08-24
+KHC,The Kraft Heinz Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.49,2026-08-24
+KIM,Kimco Realty Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+KKR,KKR & Co. Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+KLAC,KLA Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.3,2026-08-24
+KMB,Kimberly-Clark Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.15,2026-08-25
+KMI,"Kinder Morgan, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+KO,The Coca-Cola Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.64,2026-08-31
+KR,The Kroger Co.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.13,2026-08-31
+KVUE,Kenvue Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.34,2026-09-01
+L,Loews Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+LDOS,"Leidos Holdings, Inc.",non_compliant,non_compliant,compliant,non_compliant,non_compliant,non_compliant,0.01,2026-08-24
+LEN,Lennar Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+LH,Labcorp Holdings Inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+LHX,"L3Harris Technologies, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+LII,Lennox International Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.11,2026-09-01
+LIN,Linde plc,compliant,compliant,compliant,compliant,compliant,compliant,0.61,2026-08-31
+LITE,Lumentum Holdings Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.0,2026-08-28
+LLY,Eli Lilly and Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.24,2026-08-31
+LMT,Lockheed Martin Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+LNT,Alliant Energy Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.59,2026-08-24
+LOW,"Lowe's Companies, Inc.",non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.12,2026-08-31
+LRCX,Lam Research Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.84,2026-08-31
+LULU,lululemon athletica inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+LUV,Southwest Airlines Co.,non_compliant,non_compliant,compliant,compliant,compliant,non_compliant,0.73,2026-09-01
+LVS,Las Vegas Sands Corp.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+LYB,LyondellBasell Industries N.V.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.32,2026-08-24
+LYV,"Live Nation Entertainment, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MA,Mastercard Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+MAA,"Mid-America Apartment Communities, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-09-01
+MAR,"Marriott International, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MAS,Masco Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.12,2026-09-01
+MCD,McDonald's Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.23,2026-09-01
+MCHP,Microchip Technology Incorporated,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.24,2026-08-25
+MCK,McKesson Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-09-01
+MCO,Moody's Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MDLZ,"Mondelez International, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+MDT,Medtronic plc,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+MET,"MetLife, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+META,"Meta Platforms, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.06,2026-08-31
+MGM,MGM Resorts International,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MKC,"McCormick & Company, Incorporated",non_compliant,non_compliant,compliant,compliant,compliant,compliant,0.59,2026-08-24
+MLM,"Martin Marietta Materials, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+MMM,3M Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.93,2026-09-01
+MNST,Monster Beverage Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.08,2026-08-28
+MO,"Altria Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MOS,The Mosaic Company,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.45,2026-08-24
+MPC,Marathon Petroleum Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.12,2026-08-28
+MPWR,"Monolithic Power Systems, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.03,2026-08-26
+MRK,"Merck & Co., Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.53,2026-09-01
+MRNA,"Moderna, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,16.15,2026-08-24
+MRSH,"Marsh & McLennan Companies, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MRVL,"Marvell Technology, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+MS,Morgan Stanley,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MSCI,MSCI Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MSFT,Microsoft Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.99,2026-08-31
+MSI,"Motorola Solutions, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-09-01
+MTB,M&T Bank Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+MTD,Mettler-Toledo International Inc.,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+MU,"Micron Technology, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.73,2026-08-31
+NCLH,Norwegian Cruise Line Holdings Ltd.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-09-01
+NDAQ,"Nasdaq, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+NDSN,Nordson Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.11,2026-09-01
+NEE,"NextEra Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-31
+NEM,Newmont Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.94,2026-08-31
+NFLX,"Netflix, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+NI,NiSource Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.19,2026-09-01
+NKE,"NIKE, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.6,2026-09-01
+NOC,Northrop Grumman Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+NOW,"ServiceNow, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,2.57,2026-08-31
+NRG,"NRG Energy, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+NSC,Norfolk Southern Corporation,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+NTAP,"NetApp, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.81,2026-08-31
+NTRS,Northern Trust Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+NUE,Nucor Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.34,2026-09-01
+NVDA,NVIDIA Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.07,2026-08-28
+NVR,"NVR, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+NWS,News Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+NWSA,News Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+NXPI,NXP Semiconductors N.V.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.99,2026-08-31
+O,Realty Income Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+ODFL,"Old Dominion Freight Line, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.12,2026-08-28
+OKE,"ONEOK, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.1,2026-08-24
+OMC,Omnicom Group Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.56,2026-08-24
+ON,ON Semiconductor Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.59,2026-08-31
+ORCL,Oracle Corporation,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,1.16,2026-08-31
+ORLY,"O'Reilly Automotive, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.04,2026-09-01
+OTIS,Otis Worldwide Corporation,non_compliant,non_compliant,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+OXY,Occidental Petroleum Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.29,2026-08-24
+PANW,"Palo Alto Networks, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+PAYX,"Paychex, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.24,2026-09-01
+PCAR,PACCAR Inc,insufficient_data,insufficient_data,insufficient_data,non_compliant,insufficient_data,insufficient_data,,2026-09-01
+PCG,PG&E Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,2.09,2026-08-24
+PEG,Public Service Enterprise Group Incorporated,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.26,2026-08-24
+PEP,"PepsiCo, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+PFE,Pfizer Inc.,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.96,2026-08-31
+PFG,"Principal Financial Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+PG,The Procter & Gamble Company,compliant,compliant,compliant,compliant,compliant,compliant,0.49,2026-08-31
+PGR,The Progressive Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+PH,Parker-Hannifin Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.05,2026-09-01
+PHM,"PulteGroup, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.26,2026-09-01
+PKG,Packaging Corporation of America,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-09-01
+PLD,"Prologis, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.01,2026-09-01
+PLTR,Palantir Technologies Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,5.12,2026-08-31
+PM,Philip Morris International Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+PNC,"The PNC Financial Services Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+PNR,Pentair plc,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+PNW,Pinnacle West Capital Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.34,2026-08-24
+PODD,Insulet Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.28,2026-09-01
+PPG,"PPG Industries, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.96,2026-09-01
+PPL,PPL Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+PRU,"Prudential Financial, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+PSA,Public Storage,compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.31,2026-09-01
+PSKY,Paramount Skydance Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+PSX,Phillips 66,compliant,compliant,non_compliant,compliant,compliant,non_compliant,0.11,2026-08-24
+PTC,PTC Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.17,2026-09-01
+PWR,"Quanta Services, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.06,2026-09-01
+PYPL,"PayPal Holdings, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+Q,"Qnity Electronics, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.08,2026-08-31
+QCOM,QUALCOMM Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,1.11,2026-08-31
+RCL,Royal Caribbean Cruises Ltd.,non_compliant,non_compliant,compliant,non_compliant,non_compliant,non_compliant,0.13,2026-08-28
+REG,Regency Centers Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.52,2026-08-24
+REGN,"Regeneron Pharmaceuticals, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,4.73,2026-08-24
+RF,Regions Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+RJF,"Raymond James Financial, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+RL,Ralph Lauren Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.66,2026-08-28
+RMD,ResMed Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.63,2026-08-24
+ROK,"Rockwell Automation, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.16,2026-08-24
+ROL,"Rollins, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+ROP,"Roper Technologies, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+ROST,"Ross Stores, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.76,2026-08-28
+RSG,"Republic Services, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.04,2026-08-24
+RTX,RTX Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+RVTY,"Revvity, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.09,2026-08-24
+SBAC,SBA Communications Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,1.13,2026-08-24
+SBUX,Starbucks Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.3,2026-08-24
+SCHW,The Charles Schwab Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+SHW,The Sherwin-Williams Company,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.06,2026-08-24
+SJM,The J. M. Smucker Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,,2026-08-24
+SLB,SLB N.V.,compliant,compliant,compliant,compliant,compliant,compliant,0.38,2026-08-24
+SMCI,"Super Micro Computer, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+SNA,Snap-on Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,1.14,2026-08-24
+SNDK,Sandisk Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.35,2026-08-31
+SNPS,"Synopsys, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.94,2026-08-31
+SO,The Southern Company,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+SOLV,Solventum Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+SPG,"Simon Property Group, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+SPGI,S&P Global Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+SRE,Sempra,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.75,2026-08-24
+STE,STERIS plc,compliant,compliant,compliant,compliant,compliant,compliant,0.19,2026-08-24
+STLD,"Steel Dynamics, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.2,2026-08-24
+STT,State Street Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+STX,Seagate Technology Holdings plc,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.25,2026-08-31
+STZ,"Constellation Brands, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+SW,Smurfit Westrock Plc,non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.36,2026-08-24
+SWK,"Stanley Black & Decker, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.31,2026-08-24
+SWKS,"Skyworks Solutions, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.03,2026-08-31
+SYF,Synchrony Financial,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+SYK,Stryker Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+SYY,Sysco Corporation,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+T,AT&T Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.32,2026-08-31
+TAP,Molson Coors Beverage Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+TDG,TransDigm Group Incorporated,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+TDY,Teledyne Technologies Incorporated,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+TECH,Bio-Techne Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.28,2026-08-24
+TEL,TE Connectivity plc,compliant,compliant,compliant,compliant,compliant,compliant,0.48,2026-08-31
+TER,"Teradyne, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.49,2026-08-24
+TFC,Truist Financial Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+TGT,Target Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+TJX,"The TJX Companies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.32,2026-08-28
+TKO,"TKO Group Holdings, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-31
+TMO,Thermo Fisher Scientific Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,2.23,2026-08-24
+TMUS,"T-Mobile US, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.02,2026-08-24
+TPL,Texas Pacific Land Corporation,compliant,compliant,compliant,compliant,compliant,compliant,1.43,2026-08-24
+TPR,"Tapestry, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-29
+TRGP,Targa Resources Corp.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+TRMB,Trimble Inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+TROW,"T. Rowe Price Group, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+TRV,"The Travelers Companies, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+TSCO,Tractor Supply Company,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+TSLA,"Tesla, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.77,2026-08-31
+TSN,"Tyson Foods, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.13,2026-08-24
+TT,Trane Technologies plc,compliant,compliant,compliant,compliant,compliant,compliant,0.04,2026-08-24
+TTD,"The Trade Desk, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.9,2026-08-31
+TTWO,"Take-Two Interactive Software, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+TXN,Texas Instruments Incorporated,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+TXT,Textron Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+TYL,"Tyler Technologies, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+UAL,"United Airlines Holdings, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,1.03,2026-08-24
+UBER,"Uber Technologies, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,1.43,2026-08-24
+UDR,"UDR, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.82,2026-08-24
+UHS,"Universal Health Services, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.0,2026-08-24
+ULTA,"Ulta Beauty, Inc.",insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-30
+UNH,UnitedHealth Group Incorporated,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+UNP,Union Pacific Corporation,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.23,2026-08-24
+UPS,"United Parcel Service, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-30
+URI,"United Rentals, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-28
+USB,U.S. Bancorp,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+V,Visa Inc.,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+VEEV,Veeva Systems Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,6.27,2026-08-24
+VICI,VICI Properties Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.36,2026-08-24
+VLO,Valero Energy Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.21,2026-08-24
+VLTO,Veralto Corporation,insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-29
+VMC,Vulcan Materials Company,compliant,compliant,compliant,compliant,compliant,compliant,0.2,2026-08-24
+VRSK,"Verisk Analytics, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+VRSN,"VeriSign, Inc.",compliant,compliant,compliant,non_compliant,non_compliant,compliant,1.33,2026-08-24
+VRT,Vertiv Holdings Co,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+VRTX,Vertex Pharmaceuticals Incorporated,compliant,compliant,compliant,compliant,compliant,compliant,3.84,2026-08-27
+VST,Vistra Corp.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.1,2026-08-31
+VTR,"Ventas, Inc.",compliant,compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.18,2026-08-24
+VTRS,Viatris Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-28
+VZ,Verizon Communications Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.24,2026-08-24
+WAB,Westinghouse Air Brake Technologies Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-28
+WAT,Waters Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.64,2026-08-24
+WBD,"Warner Bros. Discovery, Inc.",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+WDAY,"Workday, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,3.33,2026-08-24
+WDC,Western Digital Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.39,2026-08-31
+WEC,"WEC Energy Group, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.06,2026-08-24
+WELL,Welltower Inc.,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-31
+WFC,Wells Fargo & Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+WM,"Waste Management, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-08-31
+WMB,"The Williams Companies, Inc.",non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.33,2026-08-24
+WMT,Walmart Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.05,2026-08-31
+WRB,W. R. Berkley Corporation,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+WSM,"Williams-Sonoma, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.43,2026-08-24
+WST,"West Pharmaceutical Services, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.56,2026-08-24
+WTW,Willis Towers Watson Public Limited Company,non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+WY,Weyerhaeuser Company,non_compliant,non_compliant,compliant,non_compliant,non_compliant,compliant,0.28,2026-08-24
+WYNN,"Wynn Resorts, Limited",non_compliant,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-08-24
+XEL,Xcel Energy Inc.,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,non_compliant,0.0,2026-08-24
+XOM,Exxon Mobil Corporation,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,insufficient_data,,2026-09-01
+XYL,Xylem Inc.,compliant,compliant,compliant,compliant,compliant,compliant,0.31,2026-08-24
+XYZ,"Block, Inc.",compliant,compliant,compliant,compliant,compliant,compliant,0.53,2026-08-24
+YUM,"Yum! Brands, Inc.",insufficient_data,insufficient_data,insufficient_data,non_compliant,non_compliant,insufficient_data,,2026-09-01
+ZBH,"Zimmer Biomet Holdings, Inc.",non_compliant,non_compliant,non_compliant,compliant,compliant,non_compliant,0.0,2026-08-24
+ZBRA,Zebra Technologies Corporation,compliant,compliant,compliant,compliant,compliant,compliant,0.39,2026-08-24
+ZTS,Zoetis Inc.,compliant,compliant,compliant,non_compliant,non_compliant,compliant,0.92,2026-08-24
